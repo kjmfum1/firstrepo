@@ -2,3 +2,4 @@ Change1 in master branch
 Change2 in master branch
 
 Change1 in feature1 branch
+Change2 in feature1 branch
